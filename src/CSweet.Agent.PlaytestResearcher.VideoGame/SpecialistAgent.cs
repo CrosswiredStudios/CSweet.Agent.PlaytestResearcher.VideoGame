@@ -5,7 +5,7 @@ namespace CSweet.Agent.PlaytestResearcher.VideoGame;
 public sealed class SpecialistAgent : VideoGameSpecialistAgentBase
 {
     public override string AgentId => "com.csweet.video-game-playtest-researcher";
-    public override string Version => "2.1.1";
+    public override string Version => "2.2.0";
     protected override string RoleKey => "playtest-researcher";
     protected override string ArtifactTypeKey => "video-game.playtest-plan.v1";
     protected override string RolePrompt => "Own consent-governed player research questions, recruitment criteria, scripts, evidence, interpretation, and actionable findings. Separate observation from inference.";
