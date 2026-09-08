@@ -8,7 +8,7 @@
     "specializationKeys": ["video-game-development", "playtest-planning", "research-design", "consent-governance", "research-analysis"]
   },
   "id": "com.csweet.video-game-playtest-researcher",
-  "name": "Video Game Playtest Researcher",
+  "name": "Elena Torres",
   "version": "2.1.1",
   "publisher": { "id": "com.csweet", "name": "C-Sweet" },
   "runtime": {
@@ -83,6 +83,9 @@
   "webAccess": { "mode": "None", "rules": [] },
   "ui": [],
   "catalog": {
+    "imageUrl": "https://raw.githubusercontent.com/CrosswiredStudios/CSweet.Agent.PlaytestResearcher.VideoGame/main/assets/branding/portrait-v1.jpg",
+    "companyLogoUrl": "https://raw.githubusercontent.com/CrosswiredStudios/CSweet.Agent.PlaytestResearcher.VideoGame/main/assets/branding/csweet-icon.svg",
+    "accentColor": "#3B777E",
     "summary": "Plans consent-governed evaluations and produces evidence-backed playtest findings.",
     "category": "Research",
     "role": { "key": "playtest-researcher", "name": "Video Game Playtest Researcher" },
